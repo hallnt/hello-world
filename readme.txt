@@ -1,1 +1,2 @@
-hello
+Hello,
+I am testing out git.
